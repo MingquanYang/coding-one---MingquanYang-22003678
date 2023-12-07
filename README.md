@@ -16,6 +16,7 @@ Finally, I used a p5.Speech object for speech synthesis. By calculating the dist
 
 
 References:
+
 Queer Squad. 2023. "Transgender Visibility Day: Let's rethink what it means to be 'human'." China Digital Times. [Online] Available at: https://chinadigitaltimes.net/chinese/694744.html (Accessed: 04/08/2023).
 
 
